@@ -1,4 +1,8 @@
-.crud{
-    font-style: italic;
-    color: red;
+.table{
+    border-collapse: collapse;
+}
+table,
+th,
+td{
+    border : 1px solid #c0c0c0
 }
